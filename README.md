@@ -9,7 +9,7 @@ This regroups 2646 articles from 84 sources. The collection window is between de
 ## Structure
 
 Our dataset is provided as a single JSON file. 
-Each entry represents one article and includes the following fields:
+Each row represents one article and includes the following fields:
 
 | Field     | Description                         |
 | --------- | ----------------------------------- |
