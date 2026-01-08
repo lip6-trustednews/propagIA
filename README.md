@@ -4,7 +4,9 @@ This repository contains the PROPAGIA dataset, a collection of press-like French
 
 ## Details
 
-The dataset comprises 2,646 articles from 84 sources involved in media impersonation. The collection window spans December 1, 2024 to December 1, 2025. The earliest collected article is dated 2024-12-08, and the latest is 2025-12-01.
+The dataset comprises 2,646 articles from 84 sources involved in media impersonation. The collection window spans December 1, 2024 to December 1, 2025. The earliest collected article is dated 2024-12-08, and the latest is 2025-12-01. Here is a plot showing a description of PROPAGIA and the distribution of the total number of articles per source.
+![Website distribution](https://github.com/lip6-trustednews/propagIA/blob/main/website_distribution.png)
+
 
 ## Structure
 
