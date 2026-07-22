@@ -6,7 +6,7 @@ This repository contains the PROPAGIA dataset, a collection of press-like French
 
 - **Nom du dataset** : PROPAGIA
 - **Version** : v1.0
-- **Conditions légales de partage** : Licence académique / recherche (usage non commercial, recherche uniquement). *À préciser : nom exact de la licence (ex. CC BY-NC 4.0, licence interne, etc.) si une licence formelle doit être référencée.*
+- **Conditions légales de partage** : CC BY 4.0
 
 ### Description des données
 - **Volume** : 2 646 articles
