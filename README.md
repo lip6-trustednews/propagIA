@@ -1,6 +1,6 @@
-# Datacard — PROPAGIA
+# DataCard - PROPAGIA
 
-# The PROPAGIA dataset
+# The PROPAGIA Dataset
 
 This repository contains the PROPAGIA dataset, a collection of press-like French articles originating from web sources reported by VIGINUM and Recorded Future for media impersonation. These sources were flagged as using generative AI to produce propaganda as part of the STORM-1516/CopyCop influence campaign.
 
