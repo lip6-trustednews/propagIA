@@ -1,36 +1,39 @@
-# DataCard - PROPAGIA
+# Dataset Card - PROPAGIA
 
 # The PROPAGIA Dataset
 
-This repository contains the PROPAGIA dataset, a collection of press-like French articles originating from web sources reported by VIGINUM and Recorded Future for media impersonation. These sources were flagged as using generative AI to produce propaganda as part of the STORM-1516/CopyCop influence campaign.
+This repository contains the PROPAGIA dataset, a collection of press-like French articles originating from web sources reported by VIGINUM and INSIKT GROUP for media impersonation. These sources were flagged as using generative AI to produce propaganda as part of the STORM-1516/CopyCop influence campaign.
 
-- **Nom du dataset** : PROPAGIA
-- **Version** : v1.0
-- **Conditions légales de partage** : CC BY 4.0
+- **Dataset Name**: PROPAGIA
+- **Version**: v1.0
+- **License / Sharing Terms**: CC BY 4.0
 
-### Description des données
-- **Volume** : 2 646 articles
-- **Sources** : 84 sites web impliqués dans des cas d'usurpation de médias (media impersonation)
-- **Langue** : Français
-- **Thématiques** : Articles de type presse liés à la campagne d'influence STORM-1516/CopyCop, signalés par VIGINUM et Recorded Future pour usage d'IA générative dans la production de propagande
-- **Fenêtre de collecte** : du 1er décembre 2024 au 1er décembre 2025 (article le plus ancien : 2024-12-08 ; article le plus récent : 2025-12-01)
+### Data Description
 
-### Informations techniques
-- **Format** : fichier JSON unique
-- **Structure** : une ligne par article, avec les champs suivants
+- **Size**: 2,646 articles
+- **Sources**: 84 websites involved in media impersonation cases
+- **Language**: French
+- **Topics**: Press-style articles linked to the STORM-1516/CopyCop influence operation, flagged by VIGINUM and INSIKT GROUP for the use of generative AI in producing propaganda
+- **Collection Window**: December 1, 2024 to December 1, 2025 (earliest article: 2024-12-08; latest article: 2025-12-01)
 
-| Champ     | Description                          |
-| --------- | ------------------------------------ |
-| `source`  | Nom du site web publiant l'article   |
-| `url`     | Lien direct vers l'article original  |
-| `date`    | Date de publication                  |
-| `title`   | Titre de l'article                   |
-| `content` | Texte de l'article                   |
+### Technical Information
 
-### Date de création
-7 janvier 2026
+- **Format**: single JSON file
+- **Structure**: one entry per article, with the following fields
 
-### Contact associé
+| Field     | Description                             |
+| --------- | --------------------------------------- |
+| `source`  | Name of the website publishing the article |
+| `url`     | Direct link to the original article     |
+| `date`    | Publication date                        |
+| `title`   | Article title                           |
+| `content` | Article text                            |
+
+### Creation date
+
+January 7, 2026
+
+### Contact
 SAINERO Lila, lila.sainero@lip6.fr
 ICARD Benjamin, benjamin.icard@lip6.fr
 
