@@ -51,10 +51,10 @@ main corpus statistics.
 | Articles per website (mean) | 31.5 |
 | Articles per website (median) | 25 |
 | Tokens per article (mean) | 250.5 |
-| Tokens per article (minimum) | 100 |
-| Tokens per article (maximum) | 400 |
 | Sentences per article (mean) | 20.6 |
 | Sentences per article (median) | 14.0 |
+| Tokens per article (minimum) | 100 |
+| Tokens per article (maximum) | 400 |
 
 *The token minimum and maximum are the observed range of the collected articles, not an inclusion criterion.*
 
