@@ -39,5 +39,25 @@ ICARD Benjamin, benjamin.icard@lip6.fr
 
 ## Details
 
-The dataset comprises 2,646 articles from 84 sources involved in media impersonation. The collection window spans December 1, 2024 to December 1, 2025. The earliest collected article is dated 2024-12-08, and the latest is 2025-12-01. Here is a plot showing a description of PROPAGIA and the distribution of the total number of articles per source.
-![Website distribution](https://github.com/lip6-trustednews/propagIA/blob/main/website_distribution.png)
+The dataset comprises 2,646 articles from 84 sources involved in media impersonation.
+The collection window spans December 1, 2024 to December 1, 2025: the earliest collected
+article is dated 2024-12-08 and the latest 2025-12-01. The table below summarizes the
+main corpus statistics.
+
+| Statistic | Value |
+|---|---:|
+| Number of articles | 2,646 |
+| Number of impersonating websites | 84 |
+| Articles per website (mean) | 31.5 |
+| Articles per website (median) | 25 |
+| Tokens per article (mean) | 250.5 |
+| Tokens per article (minimum) | 100 |
+| Tokens per article (maximum) | 400 |
+| Sentences per article (mean) | 20.6 |
+| Sentences per article (median) | 14.0 |
+
+*The token minimum and maximum are the observed range of the collected articles, not an inclusion criterion.*
+
+The plot below shows the distribution of the number of articles per source.
+
+![Distribution of articles per source](https://raw.githubusercontent.com/lip6-trustednews/propagIA/main/website_distribution.png)
