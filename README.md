@@ -37,6 +37,25 @@ January 7, 2026
 SAINERO Lila, lila.sainero@lip6.fr
 ICARD Benjamin, benjamin.icard@lip6.fr
 
+### Citation
+
+If you use this repository in your work, please cite the related paper:
+
+Icard, B., Vuichard, E., Lefebvre, L., Sainero, L., Girault, T., Breton, A., Launay, T., Bourgne, G., Casanova, M., Gadek, G., Klötzer, V., Le Nouy, M., Gravier, G., Ganascia, J.-G., & Égré, P. (2026). Propaganda forensics: Recovering the generation pipeline of an AI-driven influence campaign. In *Proceedings of the 10th Workshop on Online Abuse and Harms (WOAH), EMNLP 2026*. Association for Computational Linguistics. To appear.
+
+```bibtex
+@inproceedings{icard2026propaganda,
+  title     = {Propaganda Forensics: Recovering the Generation Pipeline of an AI-Driven Influence Campaign},
+  author    = {Icard, Benjamin and Vuichard, Elouan and Lefebvre, Louis and Sainero, Lila and Girault, Thomas and Breton, Alice and Launay, Tanguy and Bourgne, Gauvain and Casanova, Morgane and Gadek, Guillaume and Klötzer, Victor and Le Nouy, Michel and Gravier, Guillaume and Ganascia, Jean-Gabriel and Égré, Paul},
+  booktitle = {Proceedings of the 10th Workshop on Online Abuse and Harms (WOAH), EMNLP 2026},
+  publisher = {Association for Computational Linguistics},
+  year      = {2026},
+  note      = {To appear},
+  url       = {https://arxiv.org/abs/2608.15746}
+}
+```
+
+
 ## Details
 
 The dataset comprises 2,646 articles from 84 sources involved in media impersonation.
